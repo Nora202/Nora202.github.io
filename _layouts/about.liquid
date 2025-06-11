@@ -47,11 +47,9 @@ layout: default
     {% endif %}
 
     <!-- Working Experience-->
-    {% if page.latest_posts and page.latest_posts.enabled %}
-      <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
-      </h2>
-      {% include latest_posts.liquid %}
+    {% if page.announcements and page.announcements.enabled %}
+      <h2>Education</h2>
+      {% include news.liquid limit=true %}
     {% endif %}
 
     <!-- Selected papers -->
