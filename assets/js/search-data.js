@@ -50,8 +50,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-our-smart-sensor-fusion-data-centre-for-autonomous-systems-project-received-a-silver-prize-in-the-china-international-college-students-innovation-competition",
-          title: 'Our Smart Sensor Fusion Data Centre for Autonomous Systems project received a Silver...',
+            },},{id: "news-our-smart-sensor-fusion-data-centre-for-autonomous-systems-project-recommended-by-sjtu-received-a-silver-prize-in-the-china-international-college-students-innovation-competition",
+          title: 'Our “Smart Sensor Fusion Data Centre for Autonomous Systems project” (Recommended by SJTU)...',
           description: "",
           section: "News",},{id: "news-received-a-student-scholarship-to-present-event-triggered-distributed-target-tracking-via-primex-at-fusion-2026",
           title: 'Received a student scholarship to present “Event-Triggered Distributed Target Tracking via PRIMEX” at...',
