@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Researcher in Computer Science at Durham University
+subtitle: PhD student in Computer Science at Durham University
 
 profile:
   align: right
@@ -20,6 +20,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder  
 ---
 
-I am a PhD researcher in the Department of Computer Science at Durham University, supervised by Prof. Yang Long and Dr. Junyan Hu. I received my M.Sc. degree in Advanced Computer Science from Newcastle University in 2022.
+I am a PhD student in the Department of Computer Science at Durham University, supervised by Prof. Yang Long and Dr. Junyan Hu. I received my M.Sc. degree in Advanced Computer Science from Newcastle University in 2022.
 
 My research interests include **computer vision**, **machine learning**, **3D reconstruction**, and **3D understanding**, with a particular focus on neural rendering, 3D Gaussian Splatting, vision-language learning, and 3D content editing.
