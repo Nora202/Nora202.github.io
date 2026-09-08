@@ -1,0 +1,91 @@
+- title: Contact Information
+  type: map
+  contents:
+    - name: Email
+      value: xueqiqiu7@gmail.com / xueqi.qiu@durham.com
+    - name: Phone
+      value: (+86) 15071247751 / (+44) 7561151804
+    - name: Homepage
+      value: <a href="https://yuhsuansia.github.io">yuhsuansia.github.io</a>
+
+- title: Research Interests
+  type: list
+  contents:
+    - Computer vision, machine learning, 3D reconstruction, and 3D understanding
+    - Neural rendering, 3D Gaussian Splatting, vision-language learning, and 3D content editing
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science
+      institution: Durham University, Durham, UK
+      year: Oct 2023 — Present
+      description:
+        - "Main supervisor: Prof. Yang Long; Co-supervisor: Dr. Junyan Hu."
+    - title: M.Sc. in Advanced Computer Science
+      institution: Newcastle University, Newcastle, UK
+      year: Sep 2021 — Sep 2022
+      description:
+        - "Dissertation: Video-based Human Facial Expression Recognition using Deep Learning."
+    - title: B.Sc. in Information and Computing Science
+      institution: Hubei University of Education, Wuhan, China
+      year: Sep 2014 — Jun 2018
+      description:
+        - "Dissertation: Case Analysis of Mathematical Modeling Infusion in Data Structure."
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Durham University, Durham, UK
+      year: Mar 2026 — Jun 2026
+      description:
+        - Research on 3D reconstruction, neural rendering, and 3D Gaussian Splatting-based scene representation.
+    - title: Product Operations Manager
+      institution: Wuhan Convergence Technology Co., Ltd., Wuhan, China
+      year: Jun 2020 — Aug 2021
+      description:
+        - Supported project implementation, evaluation, acceptance, promotion, exhibition, and overseas after-sales technical service.
+    - title: Teaching Assistant
+      institution: Shanghai Keqiao International High School, Shanghai, China
+      year: Mar 2019 — Jun 2020
+      description:
+        - Assisted course delivery through grading, feedback, tutorials, and Q&A sessions.
+    - title: Research Intern
+      institution: Wuhan Huazhi Tiancheng Information Technology Co., Ltd., Wuhan, China
+      year: Sep 2018 — Apr 2019
+      description:
+        - Maintained system backend data and ensured timely data updates.
+
+- title: Grants and Awards
+  type: time_table
+  contents:
+    - year: Sep 2026
+      items:
+        - Best Student Paper, Second Prize, MFI 2026
+    - year: Jun 2026
+      items:
+        - Student Scholarship, FUSION 2026
+    - year: Oct 2025
+      items:
+        - Silver Prize, China International College Students’ Innovation Competition
+    - year: Jun 2023
+      items:
+        - China Scholarship Council (CSC) PhD Scholarship
+
+- title: Professional Service
+  type: nested_list
+  contents:
+    - title: Conference Reviewer
+      items:
+        - NeurIPS, ACM Multimedia, AAAI, ECCV, IJCAI, ACCV, BMVC, MFI, and FUSION
+    - title: Journal Reviewer
+      items:
+        - IEEE Transactions on Image Processing, IEEE Transactions on Circuits and Systems for Video Technology, and IEEE Transactions on Multimedia
+        - International Journal of Computer Vision, Information Fusion, Pattern Recognition, Neurocomputing, and Knowledge-Based Systems
+
+- title: Languages and Technical Skills
+  type: list
+  contents:
+    - "Languages: Chinese (native) and English (fluent)."
+    - "Programming: Python (PyTorch), C/C++, ROS, C#, and SQL."
