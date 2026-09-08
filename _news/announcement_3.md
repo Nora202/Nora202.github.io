@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Smart Sensor Fusion Data Centre for Autonomous Systems project received a Silver Prize in the China International College Students’ Innovation Competition.
+Our "Smart Sensor Fusion Data Centre for Autonomous Systems project" (Recommended by SJTU) received a Silver Prize in the China International College Students’ Innovation Competition.

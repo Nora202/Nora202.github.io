@@ -1417,3 +1417,9 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+@media (min-width: 768px) {
+  .profile {
+    margin-top: -4rem;
+  }
+}
