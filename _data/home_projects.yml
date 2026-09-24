@@ -1,0 +1,20 @@
+- title: Alignment-Fusion
+  description: From Alignment to Fusion in 3D Vision-Language.
+  url: https://nora202.github.io/Alignment-Fusion/
+  image: /assets/img/projects/alignment-fusion.png
+  alt: Alignment-Fusion framework overview for unified 3D scene understanding
+  link_label: Project page
+
+- title: Hybrid Gaussians
+  description: Robust open-vocabulary 3D segmentation with multi-view object association and boundary refinement.
+  url: https://nora202.github.io/hybridgaussians/
+  image: /assets/img/projects/hybrid-gaussians.png
+  alt: Hybrid Gaussians representation combining object identity and semantics
+  link_label: Project page
+
+- title: M3GStyler
+  description: Enhancing consistency across multi-view in multi-modality 3D Gaussian style transfer.
+  url: https://github.com/Nora202/M3GStyler
+  image: /assets/img/projects/m3gstyler.png
+  alt: M3GStyler 3D Gaussian style transfer experimental results
+  link_label: GitHub repository
