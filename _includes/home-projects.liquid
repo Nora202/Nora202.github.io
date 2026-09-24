@@ -1,6 +1,6 @@
 <section class="home-projects" aria-labelledby="home-projects-heading">
-  <h2 id="home-projects-heading">Project</h2>
-  <ul class="home-projects-list">
+  <h2 id="home-projects-heading">Projects</h2>
+  <ul class="home-projects-list" tabindex="0" aria-label="Projects — scroll left or right to explore">
     {% for project in site.data.home_projects %}
       <li>
         <a class="home-project-link" href="{{ project.url }}" target="_blank" rel="noopener noreferrer">
